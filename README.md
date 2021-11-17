@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </div>
  <!-- Most used Languages & Profile pic -->
 <div style="display: inline_block"><br>
+  <!-- Language Icons(https://devicon.dev) -->
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -41,12 +42,14 @@ Here are some ideas to get you started:
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   <!--<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+  
+  <!-- Profile Pic -->
   <img align="right" alt="profilePicture" height="150" style="max-width: 100%; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64753278?v=4">
 </div>
   
   ##
  
-<!-- Social media -->
+<!-- Social media(https://dev.to/envoy_/150-badges-for-github-pnk) -->
 <div>
   <!-- Youtube -->
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
